@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "new 2",
+      "email": "new",
+      "mobile": "5645+61",
+      "address": "ddsfadfsfd",
+      "services": "sadfrfadfsggfdsa"
+    },
+    {
+      "id": 4,
+      "name": "sree",
+      "email": "sree",
+      "mobile": "sree",
+      "address": "sree",
+      "services": "sree"
+    }
+  ],
+  "signup": [
+    {
+      "name": "sreehari",
+      "email": "sreehariks62@gmail.com",
+      "mobile": 123456789987654320,
+      "password": "sreehari",
+      "id": 1
+    },
+    {
+      "name": "sree",
+      "email": "sre",
+      "mobile": 123,
+      "password": "sre",
+      "id": 2
+    },
+    {
+      "name": "hari",
+      "email": "hari",
+      "mobile": 123456,
+      "password": "hari",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
